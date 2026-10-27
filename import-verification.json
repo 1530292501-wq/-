@@ -1,0 +1,33 @@
+{
+  "import_date": "2026-10-27",
+  "repository": "1530292501-wq/-",
+  "package_contents_modified": false,
+  "game_runtime_retested": false,
+  "games": [
+    {
+      "game": "iwakura-aria",
+      "package_files": 15,
+      "source_checksum_entries_passed": 14,
+      "zip": "downloads/Iwakura_Aria_zh-CN_0.9.0-rc3.zip",
+      "zip_bytes": 9313589,
+      "zip_sha256": "5516a508a86387023378af9e040dee3a4cdf5553297f1c468b53431b5b7d611e",
+      "historical_zip_sha256": "3b3d67729e07f39cd54f865ffa4b891f8349146c56d82d8d68f501f4acc6a9e0",
+      "zip_matches_historical_hash": false,
+      "zip_crc_passed": true,
+      "all_extracted_bytes_match_original_package": true
+    },
+    {
+      "game": "my-darling-dark-elf",
+      "package_files": 20,
+      "source_checksum_entries_passed": 19,
+      "zip": "downloads/My_Darling_Dark_Elf_zh-CN_1.0-portable.zip",
+      "zip_bytes": 12218367,
+      "zip_sha256": "57782f91b8e3f65c04eb021b1a5a55b8b8bcc1c2cb3c0b967dbe78931dc2770e",
+      "historical_zip_sha256": "57782f91b8e3f65c04eb021b1a5a55b8b8bcc1c2cb3c0b967dbe78931dc2770e",
+      "zip_matches_historical_hash": true,
+      "zip_crc_passed": true,
+      "all_extracted_bytes_match_original_package": true
+    }
+  ],
+  "prepared_date": "2026-10-25"
+}

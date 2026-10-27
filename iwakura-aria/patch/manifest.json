@@ -1,0 +1,34 @@
+{
+  "version": "0.9.0-rc3",
+  "game": "Iwakura Aria",
+  "steam_app_id": 3197710,
+  "steam_build_id": 19808494,
+  "platform": "Windows x64",
+  "covered_records": 10874,
+  "runtime_verified": false,
+  "source_archives": {
+    "mes00.mpk": "155fe73737c8d36f61796d23c819c105c01ec2f8679b42670ac6a7c5a21e95c9",
+    "system_jpn_win.mpk": "edab3afa528c79b6061afd162dd53124c833d42d9ef20edf1f4b66945756b89b",
+    "system.mpk": "6332289c74606d09bfdf69b1a508360c4cbdf4622943af067823ff4d6017bc8d"
+  },
+  "target_archives": {
+    "mes00.mpk": "fc127789ad50adb79799a64055bb833900581366a2dc7dd40dae4a028ab5c5d8",
+    "system_jpn_win.mpk": "64c48d2cc052acc71c91a0b6b740985c5f910aa10f009179da8f80fe0839c4b8",
+    "system.mpk": "ecfbb482c7d9a1857cc8b1784d228f690c0c16734a70d4b9abee2354ae566d7d"
+  },
+  "payload_sha256": "2c03714d4e81fbc25f0057e82e62c128d83072b95c132d1512b9b07ddc1863d0",
+  "ui_rectangles": 52,
+  "previous_targets": [
+    {
+      "mes00.mpk": "47fc6e001bdb938c3795713639a62d8c27aec66eb55ab840bc0d54ad6ff1a37d",
+      "system_jpn_win.mpk": "5957e4b1bf623d5419ee255181c1d642f8f86b7c9bc21804041439f12cffff8a",
+      "system.mpk": "6332289c74606d09bfdf69b1a508360c4cbdf4622943af067823ff4d6017bc8d"
+    },
+    {
+      "mes00.mpk": "ed437eee2b4f0e1a922b36d1c2fff62f0a24989a81418e9a955ccb52c7e21de2",
+      "system_jpn_win.mpk": "64c48d2cc052acc71c91a0b6b740985c5f910aa10f009179da8f80fe0839c4b8",
+      "system.mpk": "66af958dd4f2e807c47c5a2039944066c8bf520a9c88967a2c889139cf7da116"
+    }
+  ],
+  "official_kanji_name_policy": "Kitagawa Ichiko: \u5317\u5ddd\u58f1\u5b50; normal simplified Chinese surname forms; kana names remain explicitly labelled transliterations."
+}

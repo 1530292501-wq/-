@@ -1,0 +1,67 @@
+{
+  "version": "0.9.0-rc3",
+  "text_records": 10874,
+  "ui_rectangles": 52,
+  "guest_room_corrections": 23,
+  "speaker_names_checked": 31,
+  "ichiko_body_records_corrected": 424,
+  "ichiko_speaker_records_corrected": 4346,
+  "clean_install": true,
+  "upgrade_rc2": true,
+  "missing_backup_rejected_without_changes": true,
+  "wrong_version_rejected_without_changes": true,
+  "idempotent_install": true,
+  "restore_exact": true,
+  "atlas_pixels_match": true,
+  "atlas_trailing_metadata_exact": true,
+  "unmodified_archive_entries_preserved": true,
+  "user_installed_game_unchanged": true,
+  "independent_test_copy_updated": true,
+  "runtime_map_verified": false,
+  "zip_bytes": 9313062,
+  "zip_sha256": "3b3d67729e07f39cd54f865ffa4b891f8349146c56d82d8d68f501f4acc6a9e0",
+  "logs": [
+    {
+      "test": "clean_install",
+      "exit_code": 0,
+      "stdout": "汉化安装完成。请使用游戏的日语／简体中文语言槽。存档未作改动。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "idempotent_install",
+      "exit_code": 0,
+      "stdout": "此版本汉化已安装。请在游戏中使用日语／简体中文语言槽。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "restore_clean",
+      "exit_code": 0,
+      "stdout": "已还原原版资源。备份保留，存档未作改动。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "upgrade_missing_backup_rejected",
+      "exit_code": 1,
+      "stdout": "操作停止：升级所需的原版备份缺失或校验失败，未作修改。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "upgrade_from_rc2",
+      "exit_code": 0,
+      "stdout": "汉化安装完成。请使用游戏的日语／简体中文语言槽。存档未作改动。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "wrong_version_rejected",
+      "exit_code": 1,
+      "stdout": "操作停止：游戏版本不匹配，或已有其他补丁：mes00.mpk。未作修改。\r\n",
+      "stderr": ""
+    },
+    {
+      "test": "restore_after_upgrade",
+      "exit_code": 0,
+      "stdout": "已还原原版资源。备份保留，存档未作改动。\r\n",
+      "stderr": ""
+    }
+  ]
+}

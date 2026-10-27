@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.rpyc
+*.save
+saves/
+.DS_Store
+Thumbs.db
