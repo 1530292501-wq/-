@@ -2,7 +2,7 @@
 
 **版本：0.9.0-rc3（测试候选版）**
 
-[下载补丁 ZIP](https://github.com/1530292501-wq/-/raw/refs/heads/main/downloads/Iwakura_Aria_zh-CN_0.9.0-rc3.zip)
+[发布说明与 SHA-256](https://github.com/1530292501-wq/-/releases/tag/iwakura-aria-v0.9.0-rc3) · [下载补丁 ZIP](https://github.com/1530292501-wq/-/releases/download/iwakura-aria-v0.9.0-rc3/Iwakura_Aria_zh-CN_0.9.0-rc3.zip)
 
 适用已核验的 Windows x64 Steam Build 19808494（App 3197710）。安装器会核对原版资源哈希，版本不匹配时停止。
 

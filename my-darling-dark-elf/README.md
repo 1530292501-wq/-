@@ -2,7 +2,7 @@
 
 **版本：1.0-portable（解压安装版）**
 
-[下载补丁 ZIP](https://github.com/1530292501-wq/-/raw/refs/heads/main/downloads/My_Darling_Dark_Elf_zh-CN_1.0-portable.zip)
+[发布说明与 SHA-256](https://github.com/1530292501-wq/-/releases/tag/my-darling-dark-elf-v1.0-portable) · [下载补丁 ZIP](https://github.com/1530292501-wq/-/releases/download/my-darling-dark-elf-v1.0-portable/My_Darling_Dark_Elf_zh-CN_1.0-portable.zip)
 
 适用已测试的 Windows Steam 版游戏 1.0（Ren'Py 7.5.3）。
 

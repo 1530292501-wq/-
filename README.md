@@ -2,12 +2,12 @@
 
 保存《岩仓亚里亚》和《我亲爱的暗精灵》已制作的 Windows 汉化补丁、补丁源文件、安装说明与校验记录。
 
-| 游戏 | 当前归档版本 | 安装说明 | 直接下载 |
+| 游戏 | 发布版本 | 适配版本 | 安装说明 |
 | --- | --- | --- | --- |
-| 岩仓亚里亚 / Iwakura Aria | 0.9.0-rc3 测试候选版 | [查看](iwakura-aria/README.md) | [下载 ZIP](https://github.com/1530292501-wq/-/raw/refs/heads/main/downloads/Iwakura_Aria_zh-CN_0.9.0-rc3.zip) |
-| 我亲爱的暗精灵 / My Darling Dark Elf | 1.0-portable | [查看](my-darling-dark-elf/README.md) | [下载 ZIP](https://github.com/1530292501-wq/-/raw/refs/heads/main/downloads/My_Darling_Dark_Elf_zh-CN_1.0-portable.zip) |
+| 岩仓亚里亚 / Iwakura Aria | [v0.9.0-rc3（预发布）](https://github.com/1530292501-wq/-/releases/tag/iwakura-aria-v0.9.0-rc3) | Windows x64 · Steam Build 19808494 | [查看](iwakura-aria/README.md) |
+| 我亲爱的暗精灵 / My Darling Dark Elf | [v1.0 Portable](https://github.com/1530292501-wq/-/releases/tag/my-darling-dark-elf-v1.0-portable) | Windows · Steam 游戏 1.0 | [查看](my-darling-dark-elf/README.md) |
 
-下载对应游戏的补丁 ZIP 即可。`patch/` 目录保留同一补丁的展开文件，便于查看与维护；完整仓库 ZIP 包含两个项目，不能直接整体解压到游戏目录。
+在对应 [Release](https://github.com/1530292501-wq/-/releases) 的 **Assets** 下载补丁 ZIP。使用同名 `.sha256` 附件核对下载文件，再按各自说明安装。`patch/` 目录包含用于维护的展开文件，`downloads/` 保留原始补丁归档。
 
 ## 版本与验证范围
 
